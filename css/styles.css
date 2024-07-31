@@ -34,6 +34,11 @@ section {
     margin-bottom: 20px;
 }
 
+.video-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
 footer {
     background-color: #333;
     color: white;
